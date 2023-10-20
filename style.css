@@ -1,0 +1,66 @@
+.navbar {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 60px;
+
+}
+
+.search {
+    display: flex;
+    margin-left: 400px;
+}
+
+#searchBar {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#buttons {
+
+    border-color: black;
+    margin: auto 20px auto 20px;
+
+}
+
+.info {
+    height: 8rem;
+    margin-top: 25px;
+    border: 5px solid black;
+    width: auto;
+    height: auto;
+    border-radius: 3rem;
+}
+
+
+.logo {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 7rem;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 2rem;
+}
+
+
+.to-do {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    height: 40px;
+    width: 100px;
+    border-radius: 2rem;
+
+}
+
+.album {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    height: 40px;
+    width: 100px;
+    border-radius: 2rem;
+}
